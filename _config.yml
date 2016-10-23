@@ -33,6 +33,10 @@ author:
 # disqus comment
 disqus: True
 
+# google analytics
+ga:
+  id: UA-68587622-3
+
 # Build settings
 markdown: kramdown
 theme: minima
