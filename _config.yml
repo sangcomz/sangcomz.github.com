@@ -10,37 +10,22 @@
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+ # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+ # You can create any custom variable you would like, and they will be accessible
+ # in the templates via {{ site.myvariable }}.
 title: sangcomz blog
 email: sangcomz@naver.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: sangcomz blog
+email: sangcomz@naver.com
+ description: > # this means to ignore newlines until "baseurl:"
+   Write an awesome description for your new site here. You can edit this
+   line in _config.yml. It will appear in your document head meta (for
+   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sangcomz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
-
-# author
-author:
-  last_name: 'Jeong'
-  first_name: 'Seok Won'
-  email: 'sangcomz@naver.com'
-#head_img:
-
-# disqus comment
-disqus: True
-
-
-# Build settings
-encoding: "utf-8"
-
-# google analytics
-ga:
-  id: UA-68587622-3
-
+url: "https://sangcomz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sangcomz
+github_username:  sangcomz
+ 
 # Build settings
 markdown: kramdown
 theme: minima
