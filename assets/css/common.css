@@ -16,8 +16,8 @@
     right: 0;
     z-index: 103;
 
-    color: #fff;
-    background: #000;
+    color: #000;
+    background: #fff;
 
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
