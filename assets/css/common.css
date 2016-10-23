@@ -62,7 +62,7 @@
 }
 
 /******* Scroll Start *******/
-/* .site-header {
+.site-header {
     box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
 
@@ -75,11 +75,11 @@
     -ms-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
     -o-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
     box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
-} */
+}
 /******* Scroll End *******/
 
 /******* Scroll Start on the phone *******/
-/* .site-header {
+.site-header {
     box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
 
@@ -91,7 +91,7 @@
     -ms-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
     -o-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
     box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
-} */
+}
 /******* Scroll End *******/
 
 
