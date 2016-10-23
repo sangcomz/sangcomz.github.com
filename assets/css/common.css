@@ -18,6 +18,7 @@
 
     color: #000;
     background: #fff;
+    opacity: .4;
 
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
