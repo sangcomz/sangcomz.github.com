@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Bookmarks
 subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; To mark useful libs - tools - books
@@ -51,9 +51,9 @@ menu: Bookmark
 
 ## CSS
 - [loaders.css](https://connoratherton.com/loaders) - Delightful and performance-focused pure css loading animations
-- [Load Awesome](http://github.danielcardoso.net/load-awesome/animations.html) - Pure CSS Loaders and Spinners 
+- [Load Awesome](http://github.danielcardoso.net/load-awesome/animations.html) - Pure CSS Loaders and Spinners
 - [Hover.css](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover effects
-- [Animate.css](https://github.com/daneden/animate.css) - Bunch of cool, fun, and cross-browser animation. 
+- [Animate.css](https://github.com/daneden/animate.css) - Bunch of cool, fun, and cross-browser animation.
 
 ## Front-end web UI/Framework
 - [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web
@@ -81,4 +81,4 @@ menu: Bookmark
 ## Books
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Practical Tips
 - [Git Quick Reference](http://jonas.nitro.dk/git/quick-reference.html) - Git Quick Reference
-- [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html) - HTTP+JSON API design practices
+- [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html) - HTTP+JSON API design practices -->
