@@ -84,7 +84,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, Kotlin, C++, Qt, Python, MySQL, SQLite, Design Patterns]
+skill_software_keywords: [Python, MySQL, SQLite, Design Patterns]
 skill_j2ee_keywords: []
 skill_web_keywords: [HTML, CSS, PHP, Python, Boostrap]
-skill_mobile_app_keywords: [Android, Figma]
+skill_mobile_app_keywords: [Android, Kotlin, Firebase, AWS Lambda]
