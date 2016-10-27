@@ -19,15 +19,11 @@ categories: OpenSource
 
 ## 자랑
  오늘 FishBun이라는 라이브러리에 누가 들어오나 하고 봤는데 스택오버플로우를 통해서 들어오는 사람의 수가 많았다.
-
 올린적도 없는데 왜 많은가 하고 링크를 가봤더니, 누군가 어떤 글의 답변으로 나의 라이브러리를 추천했다.
-
 물론 그 글에 대해선 추천이 없었지만...하지만 다행일지도 모르겠다, 부끄러운...프로젝트라...
 
- 파이썬 격월 세미나에 가서 테스트에 대한 얘기를 들었다. Travis ci, Codecov연동등에 대한 얘기였다[발표자료](http://www.slideshare.net/lqez/tox-travis-codecov-67523447).
-
+ 파이썬 격월 세미나에 가서 테스트에 대한 얘기를 들었다. travis, Codecov연동등에 대한 얘기였다.
 그래서 나도 듣고 오자마자 (테스트 코드가 하나 없지만) Codecov를 달아서 0%라는 뱃지를 달았다.
-
 자극된다. 올려가는 재미가 쏠쏠할것같다.
 
  테스트 코드를 높여가는 재미나 사람들이 내 코드를 가끔 쓴다는 점은 오픈소스 관리에 큰 자극이 된다. 하지만 부끄럽고 뭔가 미안하기도 하다. 오픈소스 프로젝트 관리는 힘들고 피곤하면 뭔가 뒤로 밀리지만, 이런 자극은 힘듦과 피곤함을 잊게 해주는 좋은 자극이다. 앞으로 열심히 해서 덜 부끄러운 라이브러리로 만들어야겠다.
@@ -36,3 +32,6 @@ categories: OpenSource
 - [stackoverflow link1](http://stackoverflow.com/a/38930956)
 - [stackoverflow link2](http://stackoverflow.com/a/39995965)
 - [quora link](https://www.quora.com/Android-Applications-Which-are-libraries-used-for-multiple-image-picker-from-gallery-or-code/answer/Mihir-Raj-5?srid=ulVmx)
+
+### 그외 링크
+- [박현우 : Tox, travis, coveralls, 이번에는 소스 코드와 함께](http://www.slideshare.net/lqez/tox-travis-codecov-67523447).
