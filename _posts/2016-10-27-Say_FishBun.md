@@ -3,12 +3,13 @@ layout: post
 title:  "현재의 붕어빵 이야기"
 categories: OpenSource
 ---
+
 [FishBun](https://github.com/sangcomz/FishBun) is Image Picker for android.
 
 ## 왜 시작했는지
  Fishbun이라는 Android Multiple Picker 라이브러리를 오픈소스로 만들었었다.
 처음엔 Open Sourec라는 문화를 이해할 수 없었다. 왜 나의 기술력을 남한테 알려줘야하는지 몰랐다.
-하지만 '[Just for Fun : 리눅스 * 그냥 재미로](http://book.naver.com/bookdb/book_detail.nhn?bid=69121)'란 책을 읽으면서 생각이 조금씩 변했다. 
+하지만 '[Just for Fun : 리눅스 * 그냥 재미로](http://book.naver.com/bookdb/book_detail.nhn?bid=69121)'란 책을 읽으면서 생각이 조금씩 변했다.
 리누스 토발즈라는 인물은 생각보다 훨씬 멋있었다. 오픈소스에 관심이 있다면 읽어보기를 추천합니다.
 <br>
 읽고 얼마 지나지 않아서 SOSCON 2015를 한다는 소식을 들었다.
