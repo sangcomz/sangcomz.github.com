@@ -169,6 +169,7 @@ gradlew bintrayUpload
 ```
 
 ### 성공했다면 https://bintray.com/ 에 접속하시면 maven repository에 패키지가 추가된것을 확인할 수 있습니다.
+
 ### 그 후에 jcenter로 업데이트를 요청하시면 끝납니다. 나중에 승인이 오면 찾아서 사용하실 수 있습니다.
 
 -참고 사이트-
