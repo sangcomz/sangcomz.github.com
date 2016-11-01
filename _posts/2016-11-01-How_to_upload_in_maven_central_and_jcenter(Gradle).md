@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "How to upload in maven central and jcenter(Gradle)"
 categories: OpenSource
 ---
 
@@ -24,9 +24,9 @@ dependencies {
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: "com.jfrog.bintray"
- 
+
 version = "0.0.2"
- 
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
@@ -35,8 +35,8 @@ android {
         targetSdkVersion 23
         versionCode 1
         versionName '0.1'
- 
- 
+
+
     }
     buildTypes {
         release {
@@ -44,12 +44,12 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
- 
- 
+
+
     productFlavors {
     }
 }
- 
+
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:23.1.0'
@@ -57,24 +57,24 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:23.1.0'
     compile 'com.github.bumptech.glide:glide:3.6.0'
 }
- 
+
 def siteUrl = 'https://github.com/sangcomz/FishBun'      // Homepage URL of the library
 def gitUrl = 'https://github.com/sangcomz/FishBun.git'   // Git repository URL
 group = "com.sangcomz"                      // Maven Group ID for the artifact
- 
- 
+
+
 install {
     repositories.mavenInstaller {
         // This generates POM.xml with proper parameters
         pom {
             project {
                 packaging 'aar'
- 
+
                 // Add your description here
                 name 'fishbun'
                 description = 'The project aims to provide a album.'
                 url siteUrl
- 
+
                 // Set your license
                 licenses {
                     license {
@@ -93,43 +93,43 @@ install {
                     connection gitUrl
                     developerConnection gitUrl
                     url siteUrl
- 
+
                 }
             }
         }
     }
 }
- 
+
 task sourcesJar(type: Jar) {
     from android.sourceSets.main.java.srcDirs
     classifier = 'sources'
 }
- 
+
 afterEvaluate {
     javadoc.classpath += project.android.libraryVariants.toList().first().javaCompile.classpath
 }
- 
+
 task javadoc(type: Javadoc) {
     source = android.sourceSets.main.java.srcDirs
     classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
 }
- 
- 
+
+
 task javadocJar(type: Jar, dependsOn: javadoc) {
     classifier = 'javadoc'
     from javadoc.destinationDir
- 
+
 }
 artifacts {
     archives javadocJar
     archives sourcesJar
 }
- 
- 
- 
+
+
+
 Properties properties = new Properties()
 properties.load(project.rootProject.file('local.properties').newDataInputStream())
- 
+
 // https://github.com/bintray/gradle-bintray-plugin
 bintray {
     user = properties.getProperty("bintray.user")
@@ -175,6 +175,3 @@ gradlew bintrayUpload
 * [Publishing Gradle Android library to jCenter repository](https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/)
 * [gradle-jcenter-publish](https://github.com/danielemaddaluno/gradle-jcenter-publish)
 * [zerobrain님 블로그](http://zerobrain.tistory.com/53)
-
-
-
