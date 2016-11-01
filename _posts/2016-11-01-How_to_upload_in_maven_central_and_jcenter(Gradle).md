@@ -172,6 +172,8 @@ gradlew bintrayUpload
 ### 그 후에 jcenter로 업데이트를 요청하시면 끝납니다. 나중에 승인이 오면 찾아서 사용하실 수 있습니다.
 
 -참고 사이트-
+
+
 * [Publishing Gradle Android library to jCenter repository](https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/)
 
 
