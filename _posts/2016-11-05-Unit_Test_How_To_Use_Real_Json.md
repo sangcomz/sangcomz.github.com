@@ -68,7 +68,9 @@ GpxModel data형이 있으면 json파일을 읽어서 string으로 만들어주�
 
         return new Gson().fromJson(sb.toString(), listType);
     }
-    ```
+```
+
+
 
 ## 방법 2
 
