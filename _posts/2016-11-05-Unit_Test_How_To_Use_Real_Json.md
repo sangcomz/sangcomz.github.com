@@ -28,7 +28,7 @@ android {
 }
 ```
 
-## 방법 1 (선택한 방법)
+### 방법 1 (선택한 방법)
 
 json 객체로 직접 만들지 않고 바뀐 객체로 만들어준다.    
 GpxModel data형이 있으면 json파일을 읽어서 string으로 만들어주고 이후에 string을 gson을 통해서 GpxModel으로 변형.   
@@ -72,7 +72,7 @@ GpxModel data형이 있으면 json파일을 읽어서 string으로 만들어주�
 
 
 
-## 방법 2
+### 방법 2
 
 [JSON is bundled up with the Android SDK, so you'll just be hitting a stub. You can pull in a JSON jar, which will provide real objects to use. - StackOverFlow](json http://stackoverflow.com/questions/29402155/android-unit-test-not-mocked)
 
