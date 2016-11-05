@@ -24,13 +24,13 @@ categories: Conference
 하지만 수식이 나오기 시작하면서...."아..어..으..므.."  
 세션에선 spervised Learning에 대해서 알려주셨는데, 그 안에서도 많은 방법이 있는데,   
 그 중에서 Linear Regression에 대해서 알려주셨다.
-간단하게 
+간단하게
 1 = 1
 2 = 2
 3 = 3
 5 = ?
 컴퓨터가 이걸 맞추게 하는게 Machine Learning이다.
-이 이후에 Cost Function에 대해서 나왔다. 
+이 이후에 Cost Function에 대해서 나왔다.
 예측과 실제 값의 차이의 평균값인데 줄일수록 좋다. 이 값을 줄여나가야한다!!
 결론 : TensorFlow를 이용해서 체험해보고 싶다.
 
@@ -61,10 +61,10 @@ categories: Conference
   * SharedPreference 조회/수정
     * 값 조회/조작 가능
   * 커스텀 동작 수행할 수 있는 dump plugin
-    * 커스텀 정보 조회 / 수정 작업을 콘솔창에서 수행하자. 
+    * 커스텀 정보 조회 / 수정 작업을 콘솔창에서 수행하자.
   * UI
     * 편하게 볼 수 있다.
-     
+
 
 #### LeakCanary
 
@@ -92,11 +92,11 @@ categories: Conference
 
 * Conditional Breakpoint
   * 특정 조건을 만족할 경우에만 실행을 중단
-  
+
 * Breakpoint > Log message
   * 한두번 확인하고 말 용도의 로그메시지
   * Suspend 옵션은 꺼두자
-    
+
 ## 오픈 소스를 통해 개발 근육 강화하기
 
 |발표자|일시|
