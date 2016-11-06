@@ -108,3 +108,7 @@ categories: Conference
 하지만 나는 오픈소스를 좋아한다고 하면서 너무 나의 프로젝트에만 열심을 냈다.    
 다른 개발자들과 소통하고, 영어 공부도 할겸..(?) 다른 오픈소스에도 기여해야겠다.   
 결론적으로 구글에! 읭?
+
+추천해주신것
+* [개발자와 영어 : 박민우님](http://www.slideshare.net/tebica/developer-english-why-and-how)
+* [머신러닝 강의 : 모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
