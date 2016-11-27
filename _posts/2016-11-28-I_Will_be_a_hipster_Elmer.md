@@ -36,6 +36,7 @@ JetBrains Night 서울에서 임백준님의 '프로그래밍 언어의 선택'�
 
 - ### In Terminal
 터미널에서 elm-repl을 통해서 실행해 봤다.
+<img src="/images/elm-terminal.png">
 
 - ### [Try Elm In Online](http://elm-lang.org/try)
 온라인에서 많은 샘플을 통해서 실습할 수 있다.
