@@ -34,15 +34,15 @@ JetBrains Night 서울에서 임백준님의 '프로그래밍 언어의 선택'�
 
 [Install](https://guide.elm-lang.org/install.html) - nodejs가 필요했다.
 
-- ### In Terminal
+### In Terminal
 터미널에서 elm-repl을 통해서 실행해 봤다.
 <img src="/images/elm-terminal.png">
 
-- ### [Try Elm In Online](http://elm-lang.org/try)
+### [Try Elm In Online](http://elm-lang.org/try)
 온라인에서 많은 샘플을 통해서 실습할 수 있다.
 <img src="/images/elm-try.png">
 
-- ### In Editor
+### In Editor
 사용 가능한 Editor
 
   - Atom
