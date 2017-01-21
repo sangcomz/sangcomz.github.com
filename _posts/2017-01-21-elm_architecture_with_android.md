@@ -25,7 +25,7 @@ MVU라고 불리기도 한다.
 
 # Todo app
 간단한 Todo앱이다. Kotlin으로 만들었다. Anko라이브러리를 이용했다.
-<img src="/images/todo_screenshot.png" width=50%">
+<img src="/images/todo_screenshot.png" width="50%">
 
 ## Flow
 EditText에 텍스트를 입력하면 TodoList에 작성한 string이 들어간다.
