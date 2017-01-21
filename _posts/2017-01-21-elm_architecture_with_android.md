@@ -3,7 +3,7 @@ layout: post
 title:  "Elm architecture with android"
 categories: Etc
 ---
-<img src="/images/main.png">
+<img src="/images/elm_with_android.png">
 Elm으로 웹사이트 만들어야지!!! 했는데 그전에 Elm architecture를 이해해보기 위해서 Android에서 Elm architecture를 이용해서 간단한 Todo앱을 만들어보기로 결정했다.
 
 [glung/elm-architecture-android](https://github.com/glung/elm-architecture-android) 이미 시도된 프로젝트가 있었다. 이 프로젝트는 카운터를 구현한 프로젝트이다. 나는 더 나아가 TodoList를 만들어 보고 싶었다.
@@ -25,7 +25,7 @@ MVU라고 불리기도 한다.
 
 # Todo app
 간단한 Todo앱이다. Kotlin으로 만들었다. Anko라이브러리를 이용했다.
-<img src="/images/todo_screenshot.png">
+<img src="/images/todo_screenshot.png" width=50%>
 
 ## Flow
 EditText에 텍스트를 입력하면 TodoList에 작성한 string이 들어간다. 그리고 list에선 done, ing등으로 상태를 바꿀 수 있고, 삭제 할 수 있다.
