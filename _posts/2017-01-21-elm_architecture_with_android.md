@@ -192,6 +192,7 @@ fun view(context: Context, model: Model, dispatcher: (Action) -> Unit): LinearLa
 #### update
 
 model을 액션에 따라서 update를 해준다.
+
 ```
 fun update(action: Action, model: Model): Model {
     return when (action) {
