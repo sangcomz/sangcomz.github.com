@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Open Frontier Epilogue"
+title: "Open Frontier Epilogue"
 categories: epilogue
 ---
 
