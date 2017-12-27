@@ -25,7 +25,7 @@ Fishbun은 [오픈프론티어](https://kosslab.kr/koss/lab/business.php) 프로
 ## Readme
 | <img src="/images/one_years_ago_fishbun_readme.png">  |  <img src="/images/present_fishbun_readme.png"> |
 |:-----------------------------------------------------:|:-----------------------------------------------:|
-| 1년전                                                 | 현재                                             |
+| 1년전                                                  | 현재                                             |
 
 ## 장점
 각종 지원 및 매달 개발 지원금을 받을 수 있다. 1년동안 책임감을 갖고 오픈소스를 개발 할 수 있습니다.
