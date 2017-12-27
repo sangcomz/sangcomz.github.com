@@ -16,8 +16,14 @@ Fishbun은 크게 두 가지의 문제점을 해결하기 위해서 만들어졌
 # Fishbun With Frontier
 Fishbun은 [오픈프론티어](https://kosslab.kr/koss/lab/business.php) 프로그램에 선정됐습니다. 그래서 1년동안 많은 지원을 받으면서 개발했습니다.
 
+## Library
 | <img src="/images/one_years_ago_fishbun_screen.png">  |  <img src="/images/present_fishbun_screen.png"> |
-|---|---|
+|:-:|:-:|
+| 1년전  | 현재  |
+
+## Readme
+| <img src="/images/one_years_ago_fishbun_readme.png">  |  <img src="/images/present_fishbun_readme.png"> |
+|:-:|:-:|
 | 1년전  | 현재  |
 
 ## 장점
