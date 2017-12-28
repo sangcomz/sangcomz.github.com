@@ -7,13 +7,17 @@ categories: epilogue
 Kosslab의 주요사업중 하나인 공개SW 커미터 육성, 지원 프로그램을 했습니다. [Fishbun](https://github.com/sangcomz/FishBun)과 함께한 1년간의 후기를 남겨보려고 합니다.
 
 # Fishbun
+
 Fishbun은 안드로이드를 위한 이미지 피커 라이브러리입니다.
 Fishbun은 크게 두 가지의 문제점을 해결하기 위해서 만들어졌습니다.
+
 - 4.4이하의 버젼에서 멀티픽 기능이 불가능한 점
 - 커스터마이즈 기능을 통해 자신만의 피커를 쉽게 만들기
+
 첫번째의 경우 점점 사라질 이유이기도 합니다. 그래서 현재 Fishbun은 두번째 이유에 포커스가 맞춰 있습니다.
 
 # Fishbun With Frontier
+
 Fishbun은 [오픈프론티어](https://kosslab.kr/koss/lab/business.php) 프로그램에 선정됐습니다. 그래서 1년동안 많은 지원을 받으면서 개발했습니다.
 
 ## Library
